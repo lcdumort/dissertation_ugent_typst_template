@@ -1,0 +1,9 @@
+*.png
+*.pdf
+venv
+.stepup
+.envrc
+dmp.*
+dmp_template.typ
+__pycache__
+generated.yaml
