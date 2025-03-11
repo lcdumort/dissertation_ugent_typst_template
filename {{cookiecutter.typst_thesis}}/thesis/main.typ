@@ -119,6 +119,7 @@ Morbi sed varius ante, nec dapibus quam. Aenean nec mauris et quam imperdiet tin
   contributor: "Author Name performed the simulations and contributed to the analysis.",
   copyright: "Copyright (Year), The Authors",
   num_pages: 11,
+  location: "dumortier-et-al-2024",
 )
 
 #let paper2 = (
@@ -129,6 +130,7 @@ Morbi sed varius ante, nec dapibus quam. Aenean nec mauris et quam imperdiet tin
   contributor: "Author Name performed the simulations and contributed to the analysis.",
   copyright: "Copyright (Year), The Authors",
   num_pages: 22,
+  location: "dumortier-et-al-2025",
 )
 
 
@@ -267,8 +269,6 @@ Mauris imperdiet tellus at porta dignissim. Ut venenatis lorem posuere, venenati
 - *something important*:Morbi nisl metus, malesuada aliquam cursus a, accumsan vel libero. Aenean ultricies dignissim sem non imperdiet. Nunc tempor, purus sit amet varius aliquam, metus massa molestie nibh, eget pharetra ipsum libero a nulla. Donec porttitor libero eros, ac pharetra justo ultrices ut. Vivamus sodales sapien vel velit elementum fermentum. Suspendisse sit amet erat massa. Vivamus bibendum lacus dui, imperdiet blandit erat varius a. Etiam non mauris massa. Donec ultricies velit turpis, nec elementum ante dapibus non. Donec elit ex, porta eu enim vel, laoreet vulputate nisl. Praesent sed ex convallis, semper lectus nec, rhoncus orci. Nullam ac ligula laoreet, cursus ante vel, euismod est. Nunc feugiat, felis eget luctus interdum, orci sapien tincidunt purus, id fermentum risus turpis eu arcu. Nam tempus mi quis ante varius faucibus id vel purus. Suspendisse potenti.  
 - *also important*: Ut tristique id libero vel dignissim. Ut aliquet ex eget quam fermentum, at sollicitudin nibh placerat. Ut leo diam, pharetra sed interdum non, tristique id felis. Quisque ac mattis ante, eu bibendum ex. Suspendisse potenti. Aenean placerat nibh a arcu gravida, consequat dapibus urna tempor. Nam gravida ultrices lacinia. Pellentesque interdum, mauris in suscipit auctor, nunc leo condimentum leo, id interdum arcu magna sit amet massa. Duis interdum a neque id tristique. Integer auctor in sapien vel malesuada. Cras rhoncus suscipit orci id viverra. Donec mi mauris, dictum et sollicitudin sit amet, imperdiet at magna. Sed blandit nulla nibh, non aliquet nibh feugiat eu. 
 The foundation of statistical mechanics is that --
-
-
 
 
 == Molecular simulation

@@ -305,9 +305,11 @@
         copyright: paper.at("copyright"),
         num_pages: paper.at("num_pages"),)
     pagebreak()
-    for i in array.range(paper.at("num_pages")) {
-      pagebreak()
-    }
+
+  figure(
+  image("papers/dumortier-et-al-2024/page_001.svg", width: 130%),
+)
+
   }
 
   let show-publication(
@@ -369,15 +371,6 @@
   for i in array.range(presentations.len()) {
     show-presentation(index: str(i + 1), ..presentations.at(i))
   }
-
-  // set page(
-  //   header: none,
-  //   margin: (bottom: 2cm, top: 2cm, left: 1cm, right: 1cm),
-  // )
-
-  // page(image("paper1/paper_1.svg", width: 100%))
-  // page(image("paper1/paper_2.svg", width: 100%))
-  // page(image("paper1/paper_3.svg", width: 100%))
 
 
   set page(
